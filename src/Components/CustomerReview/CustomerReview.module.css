@@ -1,0 +1,72 @@
+.customerReview{
+    display: flex;
+    flex-direction: column;
+}
+
+.reviewList{
+    display: flex;
+    flex-direction: column;
+}
+
+#r1{
+    display: flex;
+    flex-direction: row;
+}
+
+#r2{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.individualreview{
+    padding: 5vh 10vw;
+}
+
+.reviewPara{
+    padding: 0 10px;
+    width: 60vw;
+    border: 1.5px solid white;
+    color: white;
+    border-radius: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+#iCR1{
+    margin-left: 15vw;
+}
+
+#iCR2{
+    margin-right: 15vw;
+}
+
+.customerImg{
+    position: absolute;
+    height: 20vw;
+    width: 20vw;
+}
+
+#c1{ 
+    background: url(../../Images/Customer/customer1.jpg) center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#c2{
+    background: url(../../Images/Customer/customer2.jpg) center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.imgBG{
+    position: relative;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    background: #871282;
+    transform: rotate(21.75deg);
+    height: 20vw;
+    width: 20vw;
+}

@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Oregano&display=swap');
+
+.heading{
+    text-align: center;
+}
+
+.heading h1 {
+    font-family: 'Oregano', cursive;
+    color: white;
+    font-size: 48px;
+    font-weight: lighter;
+    text-decoration-line: underline;
+}

@@ -1,0 +1,23 @@
+.heroSec {
+    background: linear-gradient(269.97deg, rgba(0, 0, 0, 0) 0.02%, rgba(0, 0, 0, 0.5) 99.98%), url(../../Images/heroBG.jpg) center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+}
+
+.gMTag {
+    margin-top: 35vh;
+    margin-left: 10vw;
+    height: 40vh;
+    width: 40vw;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.45) 0%, rgba(217, 217, 217, 0) 130.47%);
+    box-shadow: 0px 4px 61px 21px rgba(0, 0, 0, 0.53);
+    backdrop-filter: blur(4px);
+    border-radius: 69px;
+    border: 1.5px solid white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

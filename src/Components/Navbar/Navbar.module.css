@@ -1,0 +1,32 @@
+.nav{
+    background-color: #227F9C;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+}
+
+.cName p{
+    margin: 10px;
+    padding-left: 20px;
+    font-size: 24px;
+    color: white;
+}
+
+.navContent{
+    /* box-sizing: border-box; */
+    margin-left: 35vw;
+}
+
+.navContent ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    margin: 0;
+}
+
+.navContent ul li{
+    padding-right: 40px;
+    font-size: 20px;
+    color: white;
+    margin: 12px;
+}

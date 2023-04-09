@@ -1,0 +1,39 @@
+.contactUs{
+    border: 1.5px solid white;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+
+.footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    color: white;
+    text-align: center;
+}
+
+.SocialMedia{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    float: inline-start;
+}
+
+.iGfByT{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.socialMediaNames{
+    margin: 0 5px;
+}
+
+.PhoneNumber ul, .Headquarters ul{
+    list-style: none;
+    padding-left: 0px;
+}
+
+.iGfByT i, .iGfByT p{
+    padding-top: 10px;
+}

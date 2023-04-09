@@ -1,0 +1,135 @@
+.destinationsLists {
+    display: flex;
+    flex-direction: column;
+}
+
+.listContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.individual {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.individualDestination {
+    position: relative;
+    width: 25vw;
+    height: 33vh;
+    border-radius: 15px;
+    box-sizing: border-box;
+    margin: 20px;
+}
+
+/* .individualDestinationHover{
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -2;
+    width: 25vw;
+    height: 25vh;
+    border-radius: 15px;
+    box-sizing: border-box;
+    margin: 20px;
+} */
+
+/*Individual targetting of below div*/
+/* #iD1H{
+    background: url(../../Images/Africa.jpg) center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#iD2H{
+    background: url(../../Images/Asia.jpg) center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#iD3H{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#iD4H{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#iD5H{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#iD6H{
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+
+/*Individual targetting of upper div*/
+#iD1 {
+    background: #F1DAC4;
+}
+
+#iD2 {
+    background: linear-gradient(180deg, #227F9C 0%, rgba(34, 127, 156, 0) 100%);
+}
+
+#iD3 {
+    background: #F1DAC4;
+}
+
+#iD4 {
+    background: linear-gradient(180deg, #227F9C 0%, rgba(34, 127, 156, 0) 100%);
+}
+
+#iD5 {
+    background: #F1DAC4;
+}
+
+#iD6 {
+    background: linear-gradient(180deg, #227F9C 0%, rgba(34, 127, 156, 0) 100%);
+}
+
+
+/*Hover*/
+
+#iD1 {
+    background: url(../../Images/Africa.jpg) center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#iD2 {
+    background: url(../../Images/Asia.jpg) center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#iD3 {
+    background: url(../../Images/Australia.jpg) center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#iD4 {
+    background: url(../../Images/Europe.jpg) center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#iD5 {
+    background: url(../../Images/N\ America.jpg) center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#iD6 {
+    background: url(../../Images/South\ America.jpg) center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
