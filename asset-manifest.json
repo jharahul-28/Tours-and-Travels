@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Tours-and-Travels/static/css/main.df5ce97e.css",
+    "main.js": "/Tours-and-Travels/static/js/main.d143427d.js",
+    "static/media/guide.jpg": "/Tours-and-Travels/static/media/guide.1be36a540e33721b98b2.jpg",
+    "static/media/lodging.jpg": "/Tours-and-Travels/static/media/lodging.0ebffc52cef6ac254e4b.jpg",
+    "static/media/water sports.jpg": "/Tours-and-Travels/static/media/water sports.1b1e901b05358d7f4252.jpg",
+    "static/media/cuisine.jpg": "/Tours-and-Travels/static/media/cuisine.fa7f1923c00d65d43ecf.jpg",
+    "static/media/customer2.jpg": "/Tours-and-Travels/static/media/customer2.1e617c095856d497003d.jpg",
+    "static/media/transportation.jpg": "/Tours-and-Travels/static/media/transportation.d800e52d2651ef2796d7.jpg",
+    "static/media/trekking.jpg": "/Tours-and-Travels/static/media/trekking.ae7bcf5a6442b60e6aa2.jpg",
+    "static/media/sky diving.jpg": "/Tours-and-Travels/static/media/sky diving.5dcb07a9fa0b7d6e505d.jpg",
+    "static/media/customer1.jpg": "/Tours-and-Travels/static/media/customer1.9c4a543b17222122a227.jpg",
+    "static/media/heroBG.jpg": "/Tours-and-Travels/static/media/heroBG.6998dec37669a68ae64f.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Tours-and-Travels/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Tours-and-Travels/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Tours-and-Travels/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/Africa.jpg": "/Tours-and-Travels/static/media/Africa.ce8850934671f512c0a7.jpg",
+    "static/media/Asia.jpg": "/Tours-and-Travels/static/media/Asia.dfc245906df5d7e621da.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Tours-and-Travels/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Tours-and-Travels/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/Europe.jpg": "/Tours-and-Travels/static/media/Europe.2d606f59df5e66ade80f.jpg",
+    "static/media/N America.jpg": "/Tours-and-Travels/static/media/N America.aa967d4efe77408e78dd.jpg",
+    "index.html": "/Tours-and-Travels/index.html",
+    "main.df5ce97e.css.map": "/Tours-and-Travels/static/css/main.df5ce97e.css.map",
+    "main.d143427d.js.map": "/Tours-and-Travels/static/js/main.d143427d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df5ce97e.css",
+    "static/js/main.d143427d.js"
+  ]
+}
